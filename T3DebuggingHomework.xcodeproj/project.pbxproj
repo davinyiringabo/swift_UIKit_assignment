@@ -16,6 +16,7 @@
 		85C66D0F2BFE4730003E3A86 /* T3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85C66D0E2BFE4730003E3A86 /* T3ViewController.swift */; };
 		85C66D112BFE473C003E3A86 /* T3AttendeeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85C66D102BFE473C003E3A86 /* T3AttendeeViewController.swift */; };
 		85C66D132BFE494F003E3A86 /* HelloWorldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85C66D122BFE494F003E3A86 /* HelloWorldViewController.swift */; };
+		99AC2A5F2D13F3E000FE3926 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99AC2A5E2D13F3DB00FE3926 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		85C66D0E2BFE4730003E3A86 /* T3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = T3ViewController.swift; sourceTree = "<group>"; };
 		85C66D102BFE473C003E3A86 /* T3AttendeeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = T3AttendeeViewController.swift; sourceTree = "<group>"; };
 		85C66D122BFE494F003E3A86 /* HelloWorldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldViewController.swift; sourceTree = "<group>"; };
+		99AC2A5E2D13F3DB00FE3926 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 		85C66D0D2BFE470F003E3A86 /* AttendeeFlow */ = {
 			isa = PBXGroup;
 			children = (
+				99AC2A5E2D13F3DB00FE3926 /* Model.swift */,
 				85C66D0E2BFE4730003E3A86 /* T3ViewController.swift */,
 				85C66D102BFE473C003E3A86 /* T3AttendeeViewController.swift */,
 			);
@@ -155,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				99AC2A5F2D13F3E000FE3926 /* Model.swift in Sources */,
 				85C66CFE2BFE427C003E3A86 /* ViewController.swift in Sources */,
 				85C66CFA2BFE427C003E3A86 /* AppDelegate.swift in Sources */,
 				85C66D132BFE494F003E3A86 /* HelloWorldViewController.swift in Sources */,

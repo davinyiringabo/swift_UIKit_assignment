@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "ACT Certification"; ObjectID = "3zm-VY-iEL"; */
+"3zm-VY-iEL.text" = "ACT Certification";
+
+/* Class = "UITabBarItem"; title = "Hello"; ObjectID = "9Ib-mr-api"; */
+"9Ib-mr-api.title" = "Hello";
+
+/* Class = "UIButton"; configuration.title = "Attendee 4"; ObjectID = "DB3-lw-40f"; */
+"DB3-lw-40f.configuration.title" = "Attendee 4";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DB3-lw-40f"; */
+"DB3-lw-40f.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Attendee Name"; ObjectID = "DT4-6r-oPK"; */
+"DT4-6r-oPK.text" = "Attendee Name";
+
+/* Class = "UILabel"; text = "Hello, World!"; ObjectID = "HMv-if-aQH"; */
+"HMv-if-aQH.text" = "Hello, World!";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "SKt-me-O5j"; */
+"SKt-me-O5j.title" = "Home";
+
+/* Class = "UIButton"; configuration.title = "Attendee 2"; ObjectID = "TmI-Pg-ojC"; */
+"TmI-Pg-ojC.configuration.title" = "Attendee 2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TmI-Pg-ojC"; */
+"TmI-Pg-ojC.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "Tasks:\n1. When you tap on an attendee button above you should navigate to the T3 Attendee View Controller, which should reflect the attendee number you tapped in the title and the image should update with the corresponding attendee image (named 'attendee1', 'attendee2', &c. in the Assets catalog).\n2. The title on this screen and the detail view controller don't display optimally. How can we have just the title appear once? Implement this.\n3. The views don't handle landscape orientation very well. Add autolayout constraints to make sure the buttons stay centered horizontally and pinned to the top of the screen under the title. Same for the attendee View Controller"; ObjectID = "Uvy-e6-e85"; */
+"Uvy-e6-e85.text" = "Tasks:\n1. When you tap on an attendee button above you should navigate to the T3 Attendee View Controller, which should reflect the attendee number you tapped in the title and the image should update with the corresponding attendee image (named 'attendee1', 'attendee2', &c. in the Assets catalog).\n2. The title on this screen and the detail view controller don't display optimally. How can we have just the title appear once? Implement this.\n3. The views don't handle landscape orientation very well. Add autolayout constraints to make sure the buttons stay centered horizontally and pinned to the top of the screen under the title. Same for the attendee View Controller";
+
+/* Class = "UITabBarItem"; title = "Hello"; ObjectID = "Ypy-Vy-SXU"; */
+"Ypy-Vy-SXU.title" = "Hello";
+
+/* Class = "UIButton"; configuration.title = "Attendee 7"; ObjectID = "a6y-n2-k5o"; */
+"a6y-n2-k5o.configuration.title" = "Attendee 7";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a6y-n2-k5o"; */
+"a6y-n2-k5o.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter Description ..."; ObjectID = "cbf-Zx-3gy"; */
+"cbf-Zx-3gy.placeholder" = "Enter Description ...";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "dMA-zW-kV1"; */
+"dMA-zW-kV1.text" = "Description";
+
+/* Class = "UIButton"; configuration.title = "Attendee 8"; ObjectID = "fAT-2l-jsj"; */
+"fAT-2l-jsj.configuration.title" = "Attendee 8";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fAT-2l-jsj"; */
+"fAT-2l-jsj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "T3 Attendees"; ObjectID = "gpc-fr-6vS"; */
+"gpc-fr-6vS.text" = "T3 Attendees";
+
+/* Class = "UITextView"; text = "Your explanation for your navigation-style choice goes here..."; ObjectID = "jnY-8m-YkV"; */
+"jnY-8m-YkV.text" = "Your explanation for your navigation-style choice goes here...";
+
+/* Class = "UIButton"; configuration.title = "Attendee 6"; ObjectID = "lgb-HS-dWi"; */
+"lgb-HS-dWi.configuration.title" = "Attendee 6";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lgb-HS-dWi"; */
+"lgb-HS-dWi.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Attendee 5"; ObjectID = "mTq-6T-dI2"; */
+"mTq-6T-dI2.configuration.title" = "Attendee 5";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mTq-6T-dI2"; */
+"mTq-6T-dI2.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Attendence"; ObjectID = "mdQ-rW-rcG"; */
+"mdQ-rW-rcG.title" = "Attendence";
+
+/* Class = "UITabBarItem"; title = "Attendence"; ObjectID = "qal-M9-CjZ"; */
+"qal-M9-CjZ.title" = "Attendence";
+
+/* Class = "UIButton"; configuration.title = "Attendee 1"; ObjectID = "sWS-9H-Mgd"; */
+"sWS-9H-Mgd.configuration.title" = "Attendee 1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sWS-9H-Mgd"; */
+"sWS-9H-Mgd.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Welcome"; ObjectID = "tto-Ss-Ic2"; */
+"tto-Ss-Ic2.title" = "Welcome";
+
+/* Class = "UITextView"; text = "Hello! This app is meant to be completed as a part of your ACT Certification.\n\nYou have a few tasks to complete in this project:\n\n1. First things first, this view controller should be the first screen to show when a person launches our app.\n2. We need to navigate to the other pieces of the app, so you will need to implement some sort of navigation. You can implement this as a Tab Bar Controller or a Navigation Controller, but you should write a few lines about why you chose that implementation in the \"Your explanation for your choice...\" text view of the Hello World View Controller.\n3. Implemented a certain way, there appears to be a bug when you run the app and view the Hello World View Controller. Find and resolve the issue.\n4. Include the T3 Attendees flow in your app in some manner.\n5. Complete the tasks in the T3 Attendee View Controller below.\n6. In T3AttendeeViewController.swift, complete the logic emoji computed property on the AttendeeInfo enumeration and display the emoji for each attendee (1-8). You may choose whichever emojis you like for each attendee."; ObjectID = "uLh-tJ-rv4"; */
+"uLh-tJ-rv4.text" = "Hello! This app is meant to be completed as a part of your ACT Certification.\n\nYou have a few tasks to complete in this project:\n\n1. First things first, this view controller should be the first screen to show when a person launches our app.\n2. We need to navigate to the other pieces of the app, so you will need to implement some sort of navigation. You can implement this as a Tab Bar Controller or a Navigation Controller, but you should write a few lines about why you chose that implementation in the \"Your explanation for your choice...\" text view of the Hello World View Controller.\n3. Implemented a certain way, there appears to be a bug when you run the app and view the Hello World View Controller. Find and resolve the issue.\n4. Include the T3 Attendees flow in your app in some manner.\n5. Complete the tasks in the T3 Attendee View Controller below.\n6. In T3AttendeeViewController.swift, complete the logic emoji computed property on the AttendeeInfo enumeration and display the emoji for each attendee (1-8). You may choose whichever emojis you like for each attendee.";
+
+/* Class = "UIButton"; configuration.title = "Attendee 3"; ObjectID = "zrI-gv-Z2U"; */
+"zrI-gv-Z2U.configuration.title" = "Attendee 3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zrI-gv-Z2U"; */
+"zrI-gv-Z2U.normalTitle" = "Button";

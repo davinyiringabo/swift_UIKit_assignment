@@ -12,7 +12,7 @@ class HelloWorldViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.explanationTextView.text = "Why won't my text stay!"
+        self.explanationTextView.text = "I chose a tab bar navigation for its ability to provide easy access to multiple, distinct sections of the app through persistent tabs."
     }
 
 }
